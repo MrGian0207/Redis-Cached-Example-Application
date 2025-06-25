@@ -1,0 +1,80 @@
+2025-06-24 23:05:31 [31merror[39m: [31mError fetching users: TypeError: Cannot read properties of undefined (reading 'userService')[39m
+2025-06-24 23:07:38 [31merror[39m: [31mError fetching users: TypeError: Cannot read properties of undefined (reading 'userService')[39m
+2025-06-24 23:10:13 [31merror[39m: [31mError fetching users: TypeError: Cannot read properties of undefined (reading 'userService')[39m
+2025-06-25 09:27:23 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:45:26[39m
+
+[31m  42 } catch (error) {[39m
+[31m  43   console.error("Redis error:", error);[39m
+[31m  44   // Fallback: vẫn trả về dữ liệu từ database nếu Redis lỗi[39m
+[31m→ 45   return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:27:54 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:45:26[39m
+
+[31m  42 } catch (error) {[39m
+[31m  43   console.error("Redis error:", error);[39m
+[31m  44   // Fallback: vẫn trả về dữ liệu từ database nếu Redis lỗi[39m
+[31m→ 45   return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:34:07 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:35:26[39m
+
+[31m  32 //     createdAt: true,[39m
+[31m  33 //   },[39m
+[31m  34 // });[39m
+[31m→ 35 return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:35:03 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:35:26[39m
+
+[31m  32 //     createdAt: true,[39m
+[31m  33 //   },[39m
+[31m  34 // });[39m
+[31m→ 35 return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:37:01 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:35:26[39m
+
+[31m  32 //     createdAt: true,[39m
+[31m  33 //   },[39m
+[31m  34 // });[39m
+[31m→ 35 return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:43:27 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:35:26[39m
+
+[31m  32 //     createdAt: true,[39m
+[31m  33 //   },[39m
+[31m  34 // });[39m
+[31m→ 35 return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:46:44 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:35:26[39m
+
+[31m  32 //     createdAt: true,[39m
+[31m  33 //   },[39m
+[31m  34 // });[39m
+[31m→ 35 return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m

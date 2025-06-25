@@ -1,0 +1,52 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+
+// Cập nhật model User với các trường mới
+model User {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now()) @db.Timestamptz
+  updatedAt DateTime @updatedAt @db.Timestamptz
+  email     String   @unique
+  name      String?
+  
+  // Các trường bổ sung
+  password  String   @db.VarChar(255) // Lưu hash password
+  phone     String?  @db.VarChar(20)
+  avatar    String?  @db.VarChar(255) // URL ảnh đại diện
+  role      UserRole @default(USER)
+  status    UserStatus @default(ACTIVE)
+  lastLogin DateTime? @db.Timestamptz
+  birthdate DateTime? @db.Date
+  address   String?  @db.VarChar(500)
+  bio       String?  @db.Text
+  isEmailVerified Boolean @default(false)
+}
+
+// Enum cho vai trò người dùng
+enum UserRole {
+  USER
+  ADMIN
+  MODERATOR
+  SUPPORT
+}
+
+// Enum cho trạng thái tài khoản
+enum UserStatus {
+  ACTIVE
+  INACTIVE
+  SUSPENDED
+  PENDING_VERIFICATION
+}

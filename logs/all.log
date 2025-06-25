@@ -1,0 +1,315 @@
+2025-06-24 22:34:28 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 22:35:11 [35mhttp[39m: [35mGET /users 200 2 - 429.046 ms[39m
+2025-06-24 23:05:12 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-24 23:05:24 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:05:31 [31merror[39m: [31mError fetching users: TypeError: Cannot read properties of undefined (reading 'userService')[39m
+2025-06-24 23:05:31 [35mhttp[39m: [35mGET /users 500 33 - 5.476 ms[39m
+2025-06-24 23:06:46 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-24 23:07:29 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:07:38 [31merror[39m: [31mError fetching users: TypeError: Cannot read properties of undefined (reading 'userService')[39m
+2025-06-24 23:07:38 [35mhttp[39m: [35mGET /users 500 33 - 3.319 ms[39m
+2025-06-24 23:10:06 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-24 23:10:10 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:10:13 [31merror[39m: [31mError fetching users: TypeError: Cannot read properties of undefined (reading 'userService')[39m
+2025-06-24 23:10:13 [35mhttp[39m: [35mGET /users 500 33 - 3.724 ms[39m
+2025-06-24 23:11:05 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-24 23:11:16 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:12:15 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:12:16 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:12:41 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:12:52 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:12:56 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:13:13 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:13:16 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:13:17 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:13:20 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:13:27 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:15:14 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:15:22 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:15:29 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-24 23:15:51 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:15:56 [35mhttp[39m: [35mGET /users 200 2 - 542.069 ms[39m
+2025-06-24 23:23:14 [35mhttp[39m: [35mGET /users 200 35098 - 560.447 ms[39m
+2025-06-24 23:23:16 [35mhttp[39m: [35mGET /users 200 35098 - 93.108 ms[39m
+2025-06-24 23:33:34 [35mhttp[39m: [35mGET /users 200 69046 - 660.565 ms[39m
+2025-06-24 23:33:36 [35mhttp[39m: [35mGET /users 200 69046 - 149.425 ms[39m
+2025-06-24 23:33:38 [35mhttp[39m: [35mGET /users 200 69046 - 149.792 ms[39m
+2025-06-24 23:44:59 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:44:59 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:45:04 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:47:22 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-24 23:49:46 [35mhttp[39m: [35mGET /users 200 793386 - 723.226 ms[39m
+2025-06-24 23:50:40 [35mhttp[39m: [35mGET /users 200 1525627 - 431.671 ms[39m
+2025-06-24 23:51:57 [35mhttp[39m: [35mGET /users 200 3725390 - 557.448 ms[39m
+2025-06-24 23:57:59 [35mhttp[39m: [35mGET /users 200 42052570 - 2429.894 ms[39m
+2025-06-25 00:00:20 [35mhttp[39m: [35mGET /users 200 78536762 - 3860.070 ms[39m
+2025-06-25 00:00:31 [35mhttp[39m: [35mGET /users 200 78536762 - 3677.015 ms[39m
+2025-06-25 00:01:27 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:01:28 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:01:34 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:01:39 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:01:44 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:03:00 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:03:02 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:03:02 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:03:07 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:03:16 [35mhttp[39m: [35mGET /users 200 654 - 576.248 ms[39m
+2025-06-25 00:03:23 [35mhttp[39m: [35mGET /users 200 654 - 43.054 ms[39m
+2025-06-25 00:03:27 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:03:33 [35mhttp[39m: [35mGET /users 200 654 - 84.103 ms[39m
+2025-06-25 00:04:14 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:04:20 [35mhttp[39m: [35mGET /users - - - - ms[39m
+2025-06-25 00:04:21 [35mhttp[39m: [35mGET /users 200 654 - 43.178 ms[39m
+2025-06-25 00:04:30 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 00:04:43 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:04:50 [35mhttp[39m: [35mGET /users 200 59409979 - 4126.950 ms[39m
+2025-06-25 00:05:11 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:05:11 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:05:16 [35mhttp[39m: [35mGET /users 200 44527938 - 2610.275 ms[39m
+2025-06-25 00:05:48 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:05:49 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:16:17 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:16:19 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:17:39 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:17:44 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:17:48 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:18:05 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:18:05 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:18:06 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:27:23 [35mhttp[39m: [35mGET /users 200 7639 - 354.878 ms[39m
+2025-06-25 00:27:32 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:27:36 [35mhttp[39m: [35mGET /users 200 7903647 - 1463.009 ms[39m
+2025-06-25 00:27:48 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:27:52 [35mhttp[39m: [35mGET /users 200 15823026 - 1641.019 ms[39m
+2025-06-25 00:28:28 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:33:54 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:33:59 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:34:35 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:37:13 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:37:25 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:37:35 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:37:36 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:37:45 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:37:49 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:37:55 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:38:42 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:39:08 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:39:08 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:45:54 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 00:46:18 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:47:55 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:48:13 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:48:16 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 00:48:30 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 00:48:35 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:26:49 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:27:15 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:27:18 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:27:21 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:27:23 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:45:26[39m
+
+[31m  42 } catch (error) {[39m
+[31m  43   console.error("Redis error:", error);[39m
+[31m  44   // Fallback: vẫn trả về dữ liệu từ database nếu Redis lỗi[39m
+[31m→ 45   return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:27:23 [35mhttp[39m: [35mGET /users 500 33 - 90.529 ms[39m
+2025-06-25 09:27:40 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 09:27:51 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:27:54 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:45:26[39m
+
+[31m  42 } catch (error) {[39m
+[31m  43   console.error("Redis error:", error);[39m
+[31m  44   // Fallback: vẫn trả về dữ liệu từ database nếu Redis lỗi[39m
+[31m→ 45   return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:27:54 [35mhttp[39m: [35mGET /users 500 33 - 25.816 ms[39m
+2025-06-25 09:28:20 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:28:22 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:28:27 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 09:28:51 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:28:54 [35mhttp[39m: [35mGET /users 200 - - 32.941 ms[39m
+2025-06-25 09:29:08 [35mhttp[39m: [35mGET /users 200 - - 4.464 ms[39m
+2025-06-25 09:29:19 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:29:20 [35mhttp[39m: [35mGET /users 200 - - 14.070 ms[39m
+2025-06-25 09:29:50 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:30:07 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:31:37 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:31:38 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:31:42 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:31:46 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:31:52 [35mhttp[39m: [35mGET /users 200 - - 31.115 ms[39m
+2025-06-25 09:33:01 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:33:08 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:33:58 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:00 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:03 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:07 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:35:26[39m
+
+[31m  32 //     createdAt: true,[39m
+[31m  33 //   },[39m
+[31m  34 // });[39m
+[31m→ 35 return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:34:07 [35mhttp[39m: [35mGET /users 500 33 - 94.660 ms[39m
+2025-06-25 09:34:18 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:28 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:32 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:35 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:37 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:37 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:45 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:46 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:34:46 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:35:00 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:35:03 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:35:26[39m
+
+[31m  32 //     createdAt: true,[39m
+[31m  33 //   },[39m
+[31m  34 // });[39m
+[31m→ 35 return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:35:03 [35mhttp[39m: [35mGET /users 500 33 - 16.127 ms[39m
+2025-06-25 09:36:51 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 09:36:58 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:37:01 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:35:26[39m
+
+[31m  32 //     createdAt: true,[39m
+[31m  33 //   },[39m
+[31m  34 // });[39m
+[31m→ 35 return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:37:01 [35mhttp[39m: [35mGET /users 500 33 - 35.562 ms[39m
+2025-06-25 09:38:35 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 09:43:24 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:43:27 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:35:26[39m
+
+[31m  32 //     createdAt: true,[39m
+[31m  33 //   },[39m
+[31m  34 // });[39m
+[31m→ 35 return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:43:27 [35mhttp[39m: [35mGET /users 500 33 - 21.657 ms[39m
+2025-06-25 09:44:07 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:44:08 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:44:09 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:45:41 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:46:01 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:46:15 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:46:40 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:46:40 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:46:44 [31merror[39m: [31mError fetching users: PrismaClientInitializationError: [39m
+[31mInvalid `prisma.user.findMany()` invocation in[39m
+[31m/Users/minhhieu/working-space/pet-project/redis/redis-cached/src/services/user.service.ts:35:26[39m
+
+[31m  32 //     createdAt: true,[39m
+[31m  33 //   },[39m
+[31m  34 // });[39m
+[31m→ 35 return prisma.user.findMany([39m
+[31mCan't reach database server at `db.engojnukcsllexihvklf.supabase.co:5432`[39m
+
+[31mPlease make sure your database server is running at `db.engojnukcsllexihvklf.supabase.co:5432`.[39m
+2025-06-25 09:46:44 [35mhttp[39m: [35mGET /users 500 33 - 89.138 ms[39m
+2025-06-25 09:48:56 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 09:49:11 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:49:15 [35mhttp[39m: [35mGET /users 200 3319138 - 1045.364 ms[39m
+2025-06-25 09:50:23 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 09:53:35 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:54:13 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:54:19 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:54:20 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:54:37 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:57:05 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 09:57:13 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:57:18 [35mhttp[39m: [35mGET /users 200 7639 - 406.893 ms[39m
+2025-06-25 09:57:45 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:57:46 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:57:47 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:57:56 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 09:58:46 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:58:58 [35mhttp[39m: [35mGET /users 200 15823026 - 6682.051 ms[39m
+2025-06-25 09:59:17 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 09:59:25 [35mhttp[39m: [35mGET /users 200 15823026 - 239.550 ms[39m
+2025-06-25 10:00:44 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:01:57 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:01:58 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:02:00 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:02:00 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:03:39 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:03:41 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:03:44 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:03:44 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:03:46 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:03:46 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:03:47 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:03:47 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:04:08 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 10:04:08 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 10:04:08 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 10:04:08 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 10:04:08 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 10:04:17 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:04:21 [35mhttp[39m: [35mGET /users 200 15823026 - 225.844 ms[39m
+2025-06-25 10:18:15 [35mhttp[39m: [35mGET /users 200 15823026 - 6415.789 ms[39m
+2025-06-25 10:18:51 [35mhttp[39m: [35mGET /users 200 15823026 - 245.205 ms[39m
+2025-06-25 10:19:27 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-25 10:19:34 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:19:39 [35mhttp[39m: [35mGET /users 200 15823026 - 1937.924 ms[39m
+2025-06-25 10:19:43 [35mhttp[39m: [35mGET /users 200 15823026 - 200.705 ms[39m
+2025-06-25 10:19:45 [35mhttp[39m: [35mGET /users 200 15823026 - 192.533 ms[39m
+2025-06-25 10:19:46 [35mhttp[39m: [35mGET /users 200 15823026 - 194.212 ms[39m
+2025-06-25 10:31:11 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:31:29 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:31:33 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:31:35 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:31:38 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:31:44 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:31:59 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:32:02 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:32:10 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:32:14 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:32:28 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:32:32 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:32:44 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:32:45 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-25 10:40:57 [32minfo[39m: [32mHello from Winston![39m
+2025-06-25 10:40:57 [35mhttp[39m: [35mGET / 200 42 - 15.522 ms[39m
+2025-06-25 10:50:50 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-26 00:44:23 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-26 00:45:18 [35mhttp[39m: [35mGET /users 200 15823026 - 7978.984 ms[39m
+2025-06-26 00:45:40 [35mhttp[39m: [35mGET /users 200 15823026 - 7221.602 ms[39m
+2025-06-26 00:46:25 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-26 00:46:35 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-26 00:46:35 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-26 00:47:01 [35mhttp[39m: [35mGET /users 200 15823026 - 358.277 ms[39m
+2025-06-26 00:47:20 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-26 00:48:20 [35mhttp[39m: [35mGET /users 200 15823026 - 312.900 ms[39m
+2025-06-26 00:48:46 [35mhttp[39m: [35mGET /users 200 15823026 - 297.209 ms[39m
+2025-06-26 00:48:50 [35mhttp[39m: [35mGET /users 200 15823026 - 286.430 ms[39m
+2025-06-26 00:49:39 [35mhttp[39m: [35mGET /users 200 15823026 - 7813.063 ms[39m
+2025-06-26 00:49:43 [35mhttp[39m: [35mGET /users 200 15823026 - 313.021 ms[39m
+2025-06-26 01:10:47 [32minfo[39m: [32mPrisma disconnected[39m
