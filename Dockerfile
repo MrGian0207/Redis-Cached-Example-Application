@@ -4,20 +4,28 @@ FROM node:18-alpine
 # Thiết lập thư mục làm việc
 WORKDIR /app
 
-# Copy package.json và package-lock.json
+# Copy package.json và yarn.lock
 COPY package*.json ./
+COPY yarn.lock ./
+
+# Copy prisma/ trước để postinstall không lỗi
+COPY prisma ./prisma
 
 # Cài đặt dependencies
-RUN npm install
+RUN yarn install --frozen-lockfile
 
-# Copy toàn bộ mã nguồn
-COPY . .
+# Copy mã nguồn
+COPY src ./src
+COPY tsconfig.json ./
 
-# Build ứng dụng TypeScript (nếu cần)
-RUN npm run build
+# Build ứng dụng TypeScript
+RUN yarn build
+
+# Kiểm tra xem build có thành công không
+RUN ls -la build/ && test -f build/index.js
 
 # Expose port ứng dụng
 EXPOSE 3000
 
-# Lệnh khởi động ứng dụng
-CMD ["npm", "run", "start"]
+# Khởi động ứng dụng
+CMD ["yarn", "run", "start"]

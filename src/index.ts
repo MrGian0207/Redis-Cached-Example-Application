@@ -1,3 +1,5 @@
+import "module-alias/register";
+
 import express from "express";
 import { morganMiddleware, Logger } from "./libs/logger";
 import prisma from "./prisma/client";

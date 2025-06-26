@@ -313,3 +313,7 @@
 2025-06-26 00:49:39 [35mhttp[39m: [35mGET /users 200 15823026 - 7813.063 ms[39m
 2025-06-26 00:49:43 [35mhttp[39m: [35mGET /users 200 15823026 - 313.021 ms[39m
 2025-06-26 01:10:47 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-26 10:13:58 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-26 10:14:06 [32minfo[39m: [32mPrisma disconnected[39m
+2025-06-26 10:15:19 [32minfo[39m: [32mServer running at http://localhost:3000[39m
+2025-06-26 10:17:00 [32minfo[39m: [32mPrisma disconnected[39m
